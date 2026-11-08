@@ -1,0 +1,442 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 113" itemID="6af0bf00-000003a5" lastModified="1794162329" linkageIdentifier="credits" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 113">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#5cffdf">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="195" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="196" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="197" keyMode="9728">
+                                   <Actionscript>
+                                        <script>prevFrame();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer animationType="motion object" name="Layer 2" color="#c605e2">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame tweenType="motion" motionTweenScale="true" acceleration="0" duration="26" index="4" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 111" centerPoint3DX="628.95" centerPoint3DY="133.0">
+                                             <matrix>
+                                                  <Matrix tx="334.95" ty="-7.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="30" duration="139" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 111" centerPoint3DX="91.0" centerPoint3DY="133.0">
+                                             <matrix>
+                                                  <Matrix tx="-203.0" ty="-7.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame tweenType="motion object" isMotionObject="true" visibleAnimationKeyframes="2097151" motionTweenRotate="none" motionTweenScale="false" duration="27" index="169" keyMode="8195">
+                                   <motionObjectXML>
+                                        <AnimationCore TimeScale="35000" Version="1" duration="27000">
+                                             <TimeMap strength="0" type="Quadratic"/>
+                                             <metadata>
+                                                  <names>
+                                                       <name langID="en_US" value=""/>
+                                                  </names>
+                                                  <Settings orientToPath="0" xformPtXOffsetPct="0.6751700680272109" xformPtYOffsetPct="0.0" xformPtZOffsetPixels="0"/>
+                                             </metadata>
+                                             <PropertyContainer id="headContainer">
+                                                  <PropertyContainer id="Basic_Motion">
+                                                       <Property id="Motion_X" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="8666.666666666666,-179.30553110262952"/>
+                                                            <Keyframe timevalue="26000" roving="0" anchor="0,-537.95" previous="-8666.666666666666,-358.6396611945422" next="0,-537.95"/>
+                                                       </Property>
+                                                       <Property id="Motion_Y" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                       </Property>
+                                                       <Property id="Rotation_Z" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,180" previous="0,180" next="0,180"/>
+                                                       </Property>
+                                                  </PropertyContainer>
+                                                  <PropertyContainer id="Transformation">
+                                                       <Property id="Skew_X" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                       </Property>
+                                                       <Property id="Scale_X" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                       </Property>
+                                                       <Property id="Scale_Y" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,-100" previous="0,-100" next="0,-100"/>
+                                                       </Property>
+                                                       <Property id="Skew_Y" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                       </Property>
+                                                  </PropertyContainer>
+                                                  <PropertyContainer id="Colors">
+                                                       <PropertyContainer id="Advanced_ColorXform">
+                                                            <Property id="AdvClr_R_Pct" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_G_Pct" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_B_Pct" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_A_Pct" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_R_Offset" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_G_Offset" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_B_Offset" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_A_Offset" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                            </Property>
+                                                       </PropertyContainer>
+                                                  </PropertyContainer>
+                                                  <PropertyContainer id="Filters"/>
+                                             </PropertyContainer>
+                                        </AnimationCore>
+                                   </motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 111" centerPoint3DX="844.95" centerPoint3DY="133.0">
+                                             <matrix>
+                                                  <Matrix tx="550.95" ty="-7.0" a="-1.0" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="196" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 111" centerPoint3DX="307.0" centerPoint3DY="133.0">
+                                             <matrix>
+                                                  <Matrix tx="13.0" ty="-7.0" a="-1.0" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#76c3af">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 84" name="t1" centerPoint3DX="285.4" centerPoint3DY="273.45">
+                                             <matrix>
+                                                  <Matrix tx="180.05" ty="264.3" a="1.000244140625" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   this._alpha = 0;
+   if(this._name == "t1")
+   {
+      this.swapDepths(50);
+      z = 1;
+      credits = new Array();
+      credits[z] = "ultimate flash sonic";
+      credits[z add "-type"] = 2;
+      z += 1;
+      z += 1;
+      credits[z] = "created by";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "menace.ch";
+      z += 1;
+      z += 1;
+      credits[z] = "original game by";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "SONIC-TEAM";
+      z += 1;
+      credits[z] = "www.sonicteam.com";
+      z += 1;
+      z += 1;
+      z += 1;
+      credits[z] = "programmer";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "DENNIS_GID";
+      z += 1;
+      z += 1;
+      z += 1;
+      credits[z] = "CHARACTER SPRITES";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "created by";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "SONIC-TEAM";
+      z += 1;
+      credits[z] = "ripped by";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "DanielSidney";
+      z += 1;
+      z += 1;
+      z += 1;
+      credits[z] = "ENDING SPRITES";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "created by";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "SONIC-TEAM";
+      z += 1;
+      credits[z] = "ripped by";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "Dioxas";
+      z += 1;
+      credits[z] = "www.chez.com/dsx1980";
+      z += 1;
+      z += 1;
+      z += 1;
+      credits[z] = "music / sound FX";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "Sonic-Team";
+      z += 1;
+      z += 1;
+      z += 1;
+      credits[z] = "leveldesign";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "DENNIS_GID";
+      z += 1;
+      z += 1;
+      z += 1;
+      credits[z] = "Sonic-Team rules!";
+      credits[z add "-type"] = 2;
+      z += 1;
+      credits[z] = "NOW GO AND BUY";
+      z += 1;
+      credits[z] = "SONIC ADVANCE 2!!!";
+      z += 1;
+      credits[z] = "THE BEST GAME EVER";
+      c = 1;
+      speed = 0.5;
+      total = 10;
+      abst = 20;
+      top = 40;
+      bot = 235;
+      totalc = z + total;
+      var a = 1;
+      while(total &gt;= a)
+      {
+         if(a != 1)
+         {
+            duplicateMovieClip(this,"t" add a,16384 + a);
+         }
+         _root[getProperty("../", _name)]["t" add a].t = credits[c];
+         if(credits[c add "-type"] == 2)
+         {
+            _root[getProperty("../", _name)]["t" add a].gotoAndStop(2);
+         }
+         else
+         {
+            _root[getProperty("../", _name)]["t" add a].gotoAndStop(1);
+         }
+         _root[getProperty("../", _name)]["t" add a].t = credits[c];
+         c += 1;
+         _root[getProperty("../", _name)]["t" add a]._y = this._y + (a - 1) * abst;
+         a++;
+      }
+      if(_root.chara == "amy")
+      {
+         _root.music.music("rose",999999);
+      }
+      else
+      {
+         _root.music.music("credits",999999);
+      }
+   }
+}
+onClipEvent(enterFrame){
+   if(this._name == "t1")
+   {
+      if(Key.isDown(Key.SPACE))
+      {
+         if(spacedown == "off")
+         {
+            if(skip == "on")
+            {
+               "../:gotoAndStop"(getProperty("../", _totalframes));
+            }
+            else
+            {
+               skip = "on";
+            }
+         }
+         spacedown = "on";
+      }
+      else
+      {
+         spacedown = "off";
+      }
+      var a = 1;
+      while(total &gt;= a)
+      {
+         _root[getProperty("../", _name)]["t" add a]._y -= speed;
+         if(skip == "on")
+         {
+            if(-150 &lt; _root[getProperty("../", _name)]["t" add a]._alpha)
+            {
+               _root[getProperty("../", _name)]["t" add a]._alpha -= 5;
+            }
+            if(this._alpha &lt; -100 &amp;&amp; getProperty("../", _currentframe) == 1)
+            {
+               "../:play"();
+            }
+         }
+         else if(_root[getProperty("../", _name)]["t" add a]._y &lt; top)
+         {
+            if(0 &lt; _root[getProperty("../", _name)]["t" add a]._alpha)
+            {
+               _root[getProperty("../", _name)]["t" add a]._alpha -= 5;
+               _root[getProperty("../", _name)]["t" add a]._y -= speed;
+            }
+            else
+            {
+               if(credits[c add "-type"] == 2)
+               {
+                  _root[getProperty("../", _name)]["t" add a].gotoAndStop(2);
+               }
+               else
+               {
+                  _root[getProperty("../", _name)]["t" add a].gotoAndStop(1);
+               }
+               _root[getProperty("../", _name)]["t" add a].t = credits[c];
+               c += 1;
+               if(totalc &lt; c)
+               {
+                  "../:play"();
+               }
+               _root[getProperty("../", _name)]["t" add a]._y = bot;
+            }
+         }
+         else if(bot &gt;= _root[getProperty("../", _name)]["t" add a]._y)
+         {
+            if(_root[getProperty("../", _name)]["t" add a]._alpha &lt; 100)
+            {
+               _root[getProperty("../", _name)]["t" add a]._alpha += 5;
+               _root[getProperty("../", _name)]["t" add a]._y -= speed;
+            }
+         }
+         a++;
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="192" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 109" centerPoint3DX="398.8" centerPoint3DY="304.25">
+                                             <matrix>
+                                                  <Matrix tx="179.9" ty="126.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="196" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 112" centerPoint3DX="398.8" centerPoint3DY="304.25">
+                                             <matrix>
+                                                  <Matrix tx="179.9" ty="126.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   z = _root.musicvol;
+}
+onClipEvent(enterFrame){
+   if(0 &gt;= z)
+   {
+      tellTarget(_root)
+      {
+         gotoAndStop("main_menu");
+      }
+      "../:removeMovieClip"();
+   }
+   else
+   {
+      z -= 4;
+      _root.music.musicO.setVolume(z);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#e0368c" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="198" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 80" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

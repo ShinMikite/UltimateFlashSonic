@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 130" itemID="6af0bf00-000003ae" lastModified="1794162329">
+     <timeline>
+          <DOMTimeline name="Symbol 130">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#a0c35e">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" name="sonic" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728" name="tails" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728" name="amy" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="11" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728" name="cream" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="16" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728" name="knuckles" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="21" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="25" keyMode="9728" name="shadow" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#d7f23b">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>gotoAndStop([_root.chara]);
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#fc2074" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="25" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#ffffff"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1250 -10| 1250 1[ 1250 518 884 884[ 518 1250 1 1250[ -517 1250 -883 884[ -1249 518 -1249 1| -1249 -10[ -1245 -521 -883 -883[ -517 -1249 1 -1249[ 518 -1249 884 -883[ 1246 -521 1250 -10"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="25" duration="6" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#ffffff"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 352 -1301[ 584 -1218 903 -975| 904 -976[ 1123 -748 1203 -462[ 1195 -562 1168 -671[ 1274 -447 1328 -51| 1328 -50[ 1321 272 1171 534[ 1239 454 1301 353[ 1217 585 975 904| 975 905[ 739 1130 443 1208[ 576 1207 728 1169[ 504 1275 108 1329| 107 1329| 80 1329[ -266 1329 -543 1166[ -448 1261 -312 1343[ -545 1259 -863 1017| -864 1017| -863 1016| -883 997[ -1126 754 -1208 444[ -1206 578 -1169 729[ -1275 505 -1329 109| -1329 108| -1329 80| -1329 69[ -1327 -264 -1172 -534[ -1263 -441 -1342 -310[ -1259 -543 -1017 -861| -1016 -862| -996 -883| -989 -890[ -753 -1123 -454 -1205[ -558 -1197 -672 -1169[ -448 -1275 -52 -1329[ 266 -1323 525 -1177[ 448 -1242 352 -1301"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

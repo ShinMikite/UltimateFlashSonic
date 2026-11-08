@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2052" itemID="6af0bf00-000005d0" lastModified="1794162329">
+     <timeline>
+          <DOMTimeline name="Symbol 2052">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#d6c99b" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <LinearGradient>
+                                                            <matrix>
+                                                                 <Matrix tx="-62.65" ty="22.45" a="-0.03369140625" d="0.027557373046875"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#a47e12" ratio="0.0"/>
+                                                            <GradientEntry color="#393401" ratio="0.7607843"/>
+                                                            <GradientEntry color="#000000" ratio="1.0"/>
+                                                            <GradientEntry color="#000000" ratio="1.0"/>
+                                                       </LinearGradient>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <LinearGradient>
+                                                            <matrix>
+                                                                 <Matrix tx="-144.05" ty="1.4" a="-1.52587890625E-5" d="3.0517578125E-5" b="0.0501556396484375" c="0.050018310546875"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#a47e12" ratio="0.0"/>
+                                                            <GradientEntry color="#393401" ratio="0.7607843"/>
+                                                            <GradientEntry color="#000000" ratio="1.0"/>
+                                                            <GradientEntry color="#000000" ratio="1.0"/>
+                                                       </LinearGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#000000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 601 -208| 590 -199| 553 -164| 474 -80[ 311 124 140 283[ -197 645 -563 820[ -857 960 -1169 980| -1799 980"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -1799 980| -1799 820| -1749 816[ -1209 764 -726 350"/>
+                                                  <Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -726 350| -718 344[ -629 267 -542 177"/>
+                                                  <Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -542 177| -461 79| -349 -38"/>
+                                                  <Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -349 -38| -316 -80[ 164 -601 585 -820[ 893 -981 1169 -980| 1795 -979"/>
+                                                  <Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 1795 -979| 1799 -980| 1799 -979"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1799 -979| 1799 -820"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 1799 -820| 1793 -820| 1774 -820| 1764 -819[ 1251 -802 631 -236"/>
+                                                  <Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 631 -236| 601 -208"/>
+                                                  <Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 601 -208| 628 -237"/>
+                                                  <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 628 -237[ 1025 -636 1380 -821[ 1595 -933 1795 -979"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 1795 -979| 1799 -979"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 631 -236| 628 -237"/>
+                                                  <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -1799 980[ -1560 928 -1332 820[ -1055 687 -726 350"/>
+                                                  <Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -542 177[ -445 77 -349 -38"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

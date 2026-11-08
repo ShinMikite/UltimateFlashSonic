@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1908" itemID="6af0bf00-00000563" lastModified="1794162329">
+     <timeline>
+          <DOMTimeline name="Symbol 1908">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#7af046" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <BitmapFill bitmapPath="Bitmap 1846.png">
+                                                            <matrix>
+                                                                 <Matrix tx="313.95" ty="46.15" a="14.14215087890625" d="14.14215087890625" b="14.14215087890625" c="-14.14215087890625"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <BitmapFill bitmapPath="Bitmap 1846.png">
+                                                            <matrix>
+                                                                 <Matrix tx="65.45" ty="-144.5" a="16.86920166015625" d="16.86920166015625" b="10.6884765625" c="-10.6884765625"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                                  <FillStyle index="3">
+                                                       <BitmapFill bitmapPath="Bitmap 1846.png">
+                                                            <matrix>
+                                                                 <Matrix tx="31.7" ty="-102.25" a="19.197586059570312" d="19.197586059570312" b="5.5445098876953125" c="-5.5445098876953125"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                                  <FillStyle index="4">
+                                                       <BitmapFill bitmapPath="Bitmap 1846.png">
+                                                            <matrix>
+                                                                 <Matrix tx="121.75" ty="-136.85" a="14.6405029296875" d="14.6405029296875" b="13.57757568359375" c="-13.57757568359375"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                                  <FillStyle index="5">
+                                                       <BitmapFill bitmapPath="Bitmap 1846.png">
+                                                            <matrix>
+                                                                 <Matrix tx="-28.3" ty="-100.5" a="20.0" d="20.0"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 3600 2444| 2959 1800| 3600 1800| 3600 2444"/>
+                                                  <Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 2720 1003| 2702 989| 2419 792| 2341 742| 2321 729| 2287 708| 2277 702| 2162 633[ 2096 594 2030 558| 1922 500| 1896 486| 1840 458"/>
+                                                  <Edge fillStyle0="2" fillStyle1="3" strokeStyle="0" edges="! 1840 458| 1840 895"/>
+                                                  <Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 1840 895| 1840 985| 2720 1529"/>
+                                                  <Edge fillStyle0="2" fillStyle1="4" strokeStyle="0" edges="! 2720 1529| 2720 1003"/>
+                                                  <Edge fillStyle0="0" fillStyle1="4" strokeStyle="0" edges="! 2720 1003| 2728 1009| 3089 1296| 3143 1343| 3600 1800| 2959 1800| 2725 1606| 2720 1602| 2720 1529"/>
+                                                  <Edge fillStyle0="5" fillStyle1="3" strokeStyle="0" edges="! 900 494| 900 112"/>
+                                                  <Edge fillStyle0="5" fillStyle1="0" strokeStyle="0" edges="! 900 112[ 453 3 0 0| 0 446| 900 494"/>
+                                                  <Edge fillStyle0="3" fillStyle1="0" strokeStyle="0" edges="! 900 494| 900 620| 950 634| 949 631| 1840 895"/>
+                                                  <Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 900 112[ 1373 226 1840 458"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

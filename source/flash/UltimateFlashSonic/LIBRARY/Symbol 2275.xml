@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2275" itemID="6af0bf00-0000061e" lastModified="1794162329" linkageIdentifier="obj_laser" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 2275">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#73c9d0" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2274" name="o" centerPoint3DX="0.85" centerPoint3DY="-0.15">
+                                             <matrix>
+                                                  <Matrix tx="-2.15" ty="-10.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.pause == 0)
+   {
+      if(this.hitTest(_root.Sonic1.hitb) &amp;&amp; _root.Sonic1.hit == "off" &amp;&amp; this._visible == 1)
+      {
+         this._visible = 0;
+         _root.sonic1.sethit();
+      }
+      _root[getProperty("../", _name)]._y += 10;
+      if(270 &lt; _root[getProperty("../", _name)]._y)
+      {
+         _root[getProperty("../", _name)].removeMovieClip();
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

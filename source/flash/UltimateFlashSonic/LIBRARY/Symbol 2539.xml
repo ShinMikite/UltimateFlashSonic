@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2539" itemID="6af0bf00-0000068b" lastModified="1794162329">
+     <timeline>
+          <DOMTimeline name="Symbol 2539">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#9ccd54" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="361" height="170" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-14.35" ty="-6.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>music</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="12.0" bitmapSize="240" letterSpacing="-0.15" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000066" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

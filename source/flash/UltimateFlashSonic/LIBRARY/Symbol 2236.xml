@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2236" itemID="6af0bf00-00000610" lastModified="1794162329" linkageIdentifier="object17" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 2236">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#afcff4">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2235" name="h" centerPoint3DX="2.2" centerPoint3DY="0.6">
+                                             <matrix>
+                                                  <Matrix tx="-6.95" ty="-8.65" a="0.0" d="0.0" b="-1.1517486572265625" c="0.44842529296875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   this._visible = 0;
+}
+onClipEvent(enterFrame){
+   if(this.hitTest(_root.Sonic1))
+   {
+      _root.Sonic1.sethit();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#cf5edc" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#ffffff"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <BitmapFill bitmapPath="Bitmap 2225.png" bitmapIsClipped="true">
+                                                            <matrix>
+                                                                 <Matrix tx="-12.7" ty="2.2" a="0.0" d="0.0" b="-20.0" c="20.0"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! -254 44| -254 -616| 306 -616| 306 44| -254 44"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

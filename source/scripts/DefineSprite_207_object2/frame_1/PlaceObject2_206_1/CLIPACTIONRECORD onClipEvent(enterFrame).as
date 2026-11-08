@@ -1,0 +1,17 @@
+onClipEvent(enterFrame){
+   if(this.hitTest(_root.h))
+   {
+      _root.Sonic1.sproing();
+      _root.Sonic1._y -= 20;
+      _root.Sonic1.jhigh = "on";
+      _root.Sonic1.j = "off";
+      _root.Sonic1.g = "off";
+      _root.Sonic1.hit = "off";
+      _root.Sonic1.fly = "off";
+      _root.Sonic1.rot = 0;
+      _root.Sonic1.rot2 = 0;
+      _root.Sonic1._rotation = 0;
+      _root.Sonic1.y = 16;
+      "../:play"();
+   }
+}

@@ -1,0 +1,28 @@
+{
+  "tool": "JPEXS Free Flash Decompiler 26.4.0",
+  "original_sha256": "a54d2c0748852907f3f9a2d8c4da12261762befc14f5eef65100622b4b7b00d9",
+  "rebuilt_sha256": "e5c4c89e6d95e467a7c477c8fc2ea9591db257521a358939aab0eb6e5a0898ea",
+  "byte_identical": false,
+  "xml_roundtrip": "Equivalent except for recomputed storage bit widths",
+  "storage_width_changes": {
+    "numFillBits": 11,
+    "nbits": 10,
+    "moveBits": 253,
+    "nScaleBits": 69
+  },
+  "xfl_xml_files_parsed": 817,
+  "export_file_counts": {
+    "flash": 2610,
+    "fonts": 5,
+    "images": 859,
+    "morphshapes": 14,
+    "movies": 0,
+    "scripts": 419,
+    "shapes": 1256,
+    "sounds": 38,
+    "symbolClass": 1,
+    "texts": 88
+  },
+  "runtime_playtest": "See reports/runtime/summary.json for compiled-game playtests",
+  "xfl_publish_test": "Not performed"
+}

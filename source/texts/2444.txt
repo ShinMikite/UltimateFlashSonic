@@ -1,0 +1,3 @@
+this game features a password save.  to get or enter
+--- RECORDSEPARATOR ---
+a password, go to password in the main menu.

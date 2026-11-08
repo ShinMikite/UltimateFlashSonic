@@ -1,0 +1,110 @@
+[
+  {
+    "wait": 3000,
+    "click": [
+      350,
+      155
+    ]
+  },
+  {
+    "wait": 19000,
+    "shot": "menu",
+    "click": [
+      145,
+      197
+    ]
+  },
+  {
+    "wait": 1500,
+    "shot": "mode",
+    "click": [
+      140,
+      197
+    ]
+  },
+  {
+    "wait": 1500,
+    "shot": "characters"
+  },
+  {
+    "click": [
+      120,
+      287
+    ]
+  },
+  {
+    "wait": 1200,
+    "shot": "selected-character"
+  },
+  {
+    "click": [
+      140,
+      377
+    ]
+  },
+  {
+    "wait": 6000,
+    "shot": "gameplay-start"
+  },
+  {
+    "down": "ArrowRight"
+  },
+  {
+    "wait": 650,
+    "shot": "running",
+    "up": "ArrowRight"
+  },
+  {
+    "down": "Space"
+  },
+  {
+    "wait": 220,
+    "shot": "jumping",
+    "up": "Space"
+  },
+  {
+    "wait": 900,
+    "press": "Enter"
+  },
+  {
+    "wait": 400,
+    "shot": "paused"
+  },
+  {
+    "wait": 700,
+    "shot": "paused-still"
+  },
+  {
+    "press": "Enter"
+  },
+  {
+    "wait": 400,
+    "down": "ArrowDown"
+  },
+  {
+    "down": "Space"
+  },
+  {
+    "wait": 200,
+    "up": "Space"
+  },
+  {
+    "wait": 300,
+    "up": "ArrowDown"
+  },
+  {
+    "wait": 750,
+    "shot": "spindash"
+  },
+  {
+    "down": "ArrowLeft"
+  },
+  {
+    "wait": 500,
+    "up": "ArrowLeft"
+  },
+  {
+    "wait": 400,
+    "shot": "resumed"
+  }
+]

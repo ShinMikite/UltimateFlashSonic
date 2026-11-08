@@ -1,0 +1,475 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1041" itemID="6af0bf00-0000043c" lastModified="1794162329" linkageIdentifier="amy" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 1041">
+               <layers>
+                    <DOMLayer name="Labels Layer" color="#e9f982">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728" name="stand" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728" name="walk" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728" name="runslow" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728" name="run" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="30" duration="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="38" keyMode="9728" name="runfast" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="39" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="49" keyMode="9728" name="roll" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="50" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="59" keyMode="9728" name="jump" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="60" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="69" keyMode="9728" name="break" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="70" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="79" keyMode="9728" name="push" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="89" keyMode="9728" name="duck" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="90" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="99" keyMode="9728" name="dash" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="100" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="109" keyMode="9728" name="look" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="110" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="119" keyMode="9728" name="jumphigh" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="120" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="129" keyMode="9728" name="grind" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="130" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="139" keyMode="9728" name="hit" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="140" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="149" keyMode="9728" name="balance" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="150" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="159" keyMode="9728" name="twistl" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="160" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="169" keyMode="9728" name="swing" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="170" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="179" keyMode="9728" name="dead" labelType="name">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Script Layer" color="#85cb3a">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#f88eb5" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 846" centerPoint3DX="-1.15" centerPoint3DY="-5.15">
+                                             <matrix>
+                                                  <Matrix tx="-16.15" ty="-24.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 863" centerPoint3DX="-1.15" centerPoint3DY="-4.15">
+                                             <matrix>
+                                                  <Matrix tx="-16.15" ty="-22.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   stop();
+   count = 0;
+   if(this._totalframes &lt; eval("../:runframe"))
+   {
+      set("../:runframe",1);
+   }
+}
+onClipEvent(enterFrame){
+   if(count &gt;= 5)
+   {
+      set("../:runframe",eval("../:runframe") + 1);
+      if(this._totalframes &lt; eval("../:runframe"))
+      {
+         set("../:runframe",1);
+      }
+      this.gotoAndStop(eval("../:runframe"));
+      count = 0;
+   }
+   if(eval("../../:g") == "on")
+   {
+      if(0 &lt; eval("../../:x"))
+      {
+         skip = eval("../../:x");
+      }
+      else
+      {
+         skip = - eval("../../:x");
+      }
+   }
+   count += skip;
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 563" centerPoint3DX="-2.15" centerPoint3DY="-5.65">
+                                             <matrix>
+                                                  <Matrix tx="-17.15" ty="-25.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   stop();
+   count = 0;
+   if(this._totalframes &lt; eval("../:runframe"))
+   {
+      set("../:runframe",1);
+   }
+}
+onClipEvent(enterFrame){
+   if(count &gt;= 10)
+   {
+      set("../:runframe",eval("../:runframe") + 1);
+      if(this._totalframes &lt; eval("../:runframe"))
+      {
+         set("../:runframe",1);
+      }
+      this.gotoAndStop(eval("../:runframe"));
+      count = 0;
+   }
+   if(eval("../../:g") == "on")
+   {
+      if(0 &lt; eval("../../:x"))
+      {
+         skip = eval("../../:x");
+      }
+      else
+      {
+         skip = - eval("../../:x");
+      }
+   }
+   count += skip;
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="29" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 880" centerPoint3DX="-2.65" centerPoint3DY="-3.65">
+                                             <matrix>
+                                                  <Matrix tx="-22.65" ty="-20.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   stop();
+   count = 0;
+   if(this._totalframes &lt; eval("../:runframe"))
+   {
+      set("../:runframe",1);
+   }
+}
+onClipEvent(enterFrame){
+   if(count &gt;= 12)
+   {
+      set("../:runframe",eval("../:runframe") + 1);
+      if(this._totalframes &lt; eval("../:runframe"))
+      {
+         set("../:runframe",1);
+      }
+      this.gotoAndStop(eval("../:runframe"));
+      count = 0;
+   }
+   if(eval("../../:g") == "on")
+   {
+      if(0 &lt; eval("../../:x"))
+      {
+         skip = eval("../../:x");
+      }
+      else
+      {
+         skip = - eval("../../:x");
+      }
+   }
+   count += skip;
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="38" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 897" centerPoint3DX="-1.65" centerPoint3DY="-2.15">
+                                             <matrix>
+                                                  <Matrix tx="-21.65" ty="-17.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="49" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 906" centerPoint3DX="0.35" centerPoint3DY="-0.65">
+                                             <matrix>
+                                                  <Matrix tx="-15.65" ty="-16.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 915" centerPoint3DX="-3.15" centerPoint3DY="-5.15">
+                                             <matrix>
+                                                  <Matrix tx="-20.65" ty="-24.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="79" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 314" centerPoint3DX="-1.15" centerPoint3DY="-8.15">
+                                             <matrix>
+                                                  <Matrix tx="-17.65" ty="-26.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="89" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 922" centerPoint3DX="-1.15" centerPoint3DY="-3.65">
+                                             <matrix>
+                                                  <Matrix tx="-18.65" ty="-22.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="99" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 929" centerPoint3DX="6.65" centerPoint3DY="-3.15">
+                                             <matrix>
+                                                  <Matrix tx="-18.65" ty="-22.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="109" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 938" centerPoint3DX="-0.65" centerPoint3DY="-4.65">
+                                             <matrix>
+                                                  <Matrix tx="-15.65" ty="-25.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="119" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 962" centerPoint3DX="0.85" centerPoint3DY="-4.65">
+                                             <matrix>
+                                                  <Matrix tx="-16.65" ty="-28.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(3 &gt;= eval("../../:y") &amp;&amp; this._currentframe &lt; 10)
+   {
+      this.gotoAndPlay(10);
+   }
+   else if(3 &lt; eval("../../:y") &amp;&amp; 10 &lt; this._currentframe)
+   {
+      this.gotoAndPlay(1);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="129" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 967" centerPoint3DX="22.35" centerPoint3DY="14.65">
+                                             <matrix>
+                                                  <Matrix tx="-2.0" ty="-4.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="139" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 976" centerPoint3DX="-4.15" centerPoint3DY="-5.15">
+                                             <matrix>
+                                                  <Matrix tx="-24.15" ty="-23.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="149" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 981" centerPoint3DX="5.35" centerPoint3DY="-2.15">
+                                             <matrix>
+                                                  <Matrix tx="-14.65" ty="-22.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="159" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1004" name="sonic" centerPoint3DX="-2.15" centerPoint3DY="2.35">
+                                             <matrix>
+                                                  <Matrix tx="-19.65" ty="-20.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="169" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1029" name="sonic" centerPoint3DX="101.85" centerPoint3DY="1.85">
+                                             <matrix>
+                                                  <Matrix tx="51.85" ty="-48.15" a="-1.0" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="178" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1040" name="sonic" centerPoint3DX="41.85" centerPoint3DY="-4.15">
+                                             <matrix>
+                                                  <Matrix tx="21.85" ty="-24.15" a="-1.0" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="189" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

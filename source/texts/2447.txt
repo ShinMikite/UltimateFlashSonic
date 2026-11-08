@@ -1,0 +1,7 @@
+move: left/right
+--- RECORDSEPARATOR ---
+jump: space
+--- RECORDSEPARATOR ---
+spindash: hold down, press space , than release down
+--- RECORDSEPARATOR ---
+pause: enter

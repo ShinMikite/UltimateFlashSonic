@@ -1,0 +1,9 @@
+{
+  "compiler": "JPEXS Free Flash Decompiler 26.4.0",
+  "scripts_compiled": 419,
+  "original_bytecode_removed_before_compilation": true,
+  "legacy_button_event_flags_preserved": 1,
+  "output": "UltimateFlashSonic.swf",
+  "sha256": "69d06901e6b4e0538f5f71a2a6562050c5bda9ddfaf4c8e43c2b2a4462b9d7c6",
+  "clean_rebuild_sha256_matched": true
+}

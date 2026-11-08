@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2211" itemID="6af0bf00-000005fe" lastModified="1794162329" linkageIdentifier="Menu_eingabe" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 2211">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#f7b38c" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMInputText fontRenderingMode="standard" width="133.5" height="10.7" border="true" variableName="t">
+                                             <matrix>
+                                                  <Matrix tx="-56.5" ty="-4.8"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>190999999999999</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="1.65" rightMargin="0.0" autoKern="false" size="9.95" bitmapSize="199" face="Vipnagorgialla" fillColor="#333333" alpha="1.0"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMInputText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

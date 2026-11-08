@@ -1,0 +1,116 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2066" itemID="6af0bf00-000005dc" lastModified="1794162329" linkageIdentifier="object14" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 2066">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#f702d7">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#c8e46c" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2064" centerPoint3DX="6.75" centerPoint3DY="13.75">
+                                             <matrix>
+                                                  <Matrix tx="-0.25" ty="-0.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   downdown = "on";
+   speed = 15;
+   corr = 45;
+   this._rotation = 0;
+   sound = "off";
+}
+onClipEvent(enterFrame){
+   if(_root.pause == 0)
+   {
+      if(this.hitTest(_root.Sonic1))
+      {
+         _root.Sonic1.j = "off";
+         _root.Sonic1.hit = "off";
+         _root.Sonic1.y = 0;
+         _root.Sonic1.x = 0;
+         if(sound == "off")
+         {
+            _root.fx.fx("speeder");
+            sound = "done";
+         }
+         _root.Sonic1.swing = "on";
+         _root.Sonic1._x = _root.levelo._x + _root.Levelo["p" add eval("../:object")]._x + _root.levelo["p" add eval("../:object")][getProperty("../", _name)]._x;
+         _root.Sonic1._y = _root.levelo._y + _root.Levelo["p" add eval("../:object")]._y + _root.levelo["p" add eval("../:object")][getProperty("../", _name)]._y;
+         rot = Math.round(_root.Sonic1.Sonic.Sonic._currentframe / _root.Sonic1.Sonic.Sonic._totalframes * 360);
+         if(0 &lt; _root.Sonic1._xscale)
+         {
+            rot -= 180;
+            rot += corr;
+            rot2 = (rot - corr) * -1;
+         }
+         else
+         {
+            rot += corr;
+            rot2 = rot - corr;
+         }
+         _root.Sonic1._x += 10 * Math.cos(0.017453292519943295 * rot2);
+         _root.Sonic1._y += 10 * Math.sin(0.017453292519943295 * rot2);
+         this._rotation = rot2 - 90;
+         if(Key.isDown(Key.SPACE))
+         {
+            if(downdown == "off")
+            {
+               _root.Sonic1.x = speed * Math.cos(0.017453292519943295 * rot);
+               if(0 &lt; _root.Sonic1._xscale)
+               {
+                  _root.Sonic1.y = speed * Math.sin(0.017453292519943295 * rot);
+               }
+               else
+               {
+                  _root.Sonic1.y = (- speed) * Math.sin(0.017453292519943295 * rot);
+               }
+               _root.Sonic1.j = "on";
+               _root.Sonic1.jhigh = "off";
+               _root.Sonic1.jumpdown = "on";
+               "../:play"();
+            }
+            downdown = "on";
+         }
+         else
+         {
+            downdown = "off";
+         }
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2065" centerPoint3DX="7.75" centerPoint3DY="14.75">
+                                             <matrix>
+                                                  <Matrix tx="0.75" ty="0.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

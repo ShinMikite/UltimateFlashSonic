@@ -1,0 +1,572 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 55" itemID="6af0bf00-0000038b" lastModified="1794162329" linkageIdentifier="leveloutro" linkageExportForAS="true">
+     <timeline>
+          <DOMTimeline name="Symbol 55">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#d3d352">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>_root.music.music("endofact",0);
+_root.leveloutro.score = _root.score;
+play();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="40" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="41" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="42" duration="33" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="75" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+tellTarget(_root)
+{
+   gotoAndStop("fin");
+}
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#83c998">
+                         <frames>
+                              <DOMFrame index="0" duration="68" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="68" duration="5" tweenType="shape" keyMode="17922" acceleration="0">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#010101" alpha="0.0"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#000000" alpha="1.0"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 0 0| 7000 0| 7000 5000| 0 5000| 0 0"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="73" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000001" alpha="1.0"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#000001" alpha="1.0"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 0 0| 7000 0| 7000 5000| 0 5000| 0 0"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="74" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer animationType="motion object" name="Layer 3" color="#f55d7c">
+                         <frames>
+                              <DOMFrame tweenType="motion" motionTweenScale="true" acceleration="0" duration="4" index="0" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="671.4" centerPoint3DY="183.25">
+                                             <matrix>
+                                                  <Matrix tx="494.95" ty="172.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame tweenType="motion" motionTweenScale="true" acceleration="0" duration="9" index="4" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="383.4" centerPoint3DY="183.25">
+                                             <matrix>
+                                                  <Matrix tx="206.95" ty="172.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="351.4" centerPoint3DY="183.25">
+                                             <matrix>
+                                                  <Matrix tx="174.95" ty="172.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame tweenType="motion" motionTweenScale="true" acceleration="0" duration="6" index="18" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="351.4" centerPoint3DY="168.7">
+                                             <matrix>
+                                                  <Matrix tx="174.95" ty="157.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" duration="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="351.4" centerPoint3DY="81.25">
+                                             <matrix>
+                                                  <Matrix tx="174.95" ty="70.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame tweenType="motion object" isMotionObject="true" visibleAnimationKeyframes="2097151" motionTweenRotate="none" motionTweenScale="false" duration="8" index="46" keyMode="8195">
+                                   <motionObjectXML>
+                                        <AnimationCore TimeScale="35000" Version="1" duration="8000">
+                                             <TimeMap strength="0" type="Quadratic"/>
+                                             <metadata>
+                                                  <names>
+                                                       <name langID="en_US" value=""/>
+                                                  </names>
+                                                  <Settings orientToPath="0" xformPtXOffsetPct="0.5014168319637291" xformPtYOffsetPct="0.4988662131519274" xformPtZOffsetPixels="0"/>
+                                             </metadata>
+                                             <PropertyContainer id="headContainer">
+                                                  <PropertyContainer id="Basic_Motion">
+                                                       <Property id="Motion_X" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="2333.3333333333335,-4.295216049382731"/>
+                                                            <Keyframe timevalue="7000" roving="0" anchor="0,-57.30000000000001" previous="-2333.3333333333335,-23.342283950617315" next="0,-57.30000000000001"/>
+                                                       </Property>
+                                                       <Property id="Motion_Y" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                       </Property>
+                                                       <Property id="Rotation_Z" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                       </Property>
+                                                  </PropertyContainer>
+                                                  <PropertyContainer id="Transformation">
+                                                       <Property id="Skew_X" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                       </Property>
+                                                       <Property id="Scale_X" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                       </Property>
+                                                       <Property id="Scale_Y" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                       </Property>
+                                                       <Property id="Skew_Y" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                            <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                       </Property>
+                                                  </PropertyContainer>
+                                                  <PropertyContainer id="Colors">
+                                                       <PropertyContainer id="Advanced_ColorXform">
+                                                            <Property id="AdvClr_R_Pct" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_G_Pct" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_B_Pct" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_A_Pct" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,100" previous="0,100" next="0,100"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_R_Offset" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_G_Offset" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_B_Offset" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                            </Property>
+                                                            <Property id="AdvClr_A_Offset" enabled="1" readonly="0" visible="1" ignoreTimeMap="1">
+                                                                 <Keyframe timevalue="0" roving="0" anchor="0,0" previous="0,0" next="0,0"/>
+                                                            </Property>
+                                                       </PropertyContainer>
+                                                  </PropertyContainer>
+                                                  <PropertyContainer id="Filters"/>
+                                             </PropertyContainer>
+                                        </AnimationCore>
+                                   </motionObjectXML>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="350.5" centerPoint3DY="81.25">
+                                             <matrix>
+                                                  <Matrix tx="174.05" ty="70.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="54" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="205.95" centerPoint3DY="81.25">
+                                             <matrix>
+                                                  <Matrix tx="29.5" ty="70.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="55" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="118.65" centerPoint3DY="81.25">
+                                             <matrix>
+                                                  <Matrix tx="-57.8" ty="70.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="56" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 40" centerPoint3DX="31.4" centerPoint3DY="81.25">
+                                             <matrix>
+                                                  <Matrix tx="-145.05" ty="70.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#908283">
+                         <frames>
+                              <DOMFrame index="0" duration="25" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="25" duration="43" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 52" centerPoint3DX="-90.5" centerPoint3DY="58.5">
+                                             <matrix>
+                                                  <Matrix tx="-101.5" ty="51.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   stat = 1;
+   set("../:ringbonus",_root.rings * 10);
+   if(_root.boss == "on")
+   {
+      set("../:timebonus",Math.round(_root.act[_root.czone add "-bosstime"] - (_root.time.min / 60 + _root.time.sec)) * 100);
+   }
+   else
+   {
+      set("../:timebonus",Math.round(_root.act[_root.czone add "-" add _root.cact add "-time"] - (_root.time.min / 60 + _root.time.sec)) * 100);
+   }
+   if(eval("../:timebonus") &lt; 0)
+   {
+      set("../:timebonus",0);
+   }
+   sname = new Array();
+   sname[1] = "ringbonus";
+   sname[2] = "timebonus";
+   sname[3] = "score";
+   var a = 1;
+   while(3 &gt;= a)
+   {
+      if(a != 1)
+      {
+         duplicateMovieClip(eval("../:s1"),"s" add a,16384 + a);
+      }
+      _root.leveloutro["s" add a].s = sname[this.a];
+      _root.leveloutro["s" add a]._x = 500 + a * 100;
+      _root.leveloutro["s" add a]._y = _root.leveloutro.s1._y + (a - 1) * 20;
+      a++;
+   }
+}
+onClipEvent(enterFrame){
+   if(stat == 1)
+   {
+      var a = 1;
+      while(3 &gt;= a)
+      {
+         if(190 &lt; _root.leveloutro["s" add a]._x)
+         {
+            _root.leveloutro["s" add a]._x -= 20;
+         }
+         else
+         {
+            _root.leveloutro["s" add a]._x = 190;
+         }
+         a++;
+      }
+      if(_root.leveloutro.s3._x == 190)
+      {
+         count = 0;
+         stat = 2;
+      }
+   }
+   else if(stat == 2)
+   {
+      if(count &gt;= 75)
+      {
+         count = 0;
+         stat = 3;
+      }
+      else
+      {
+         count += 1;
+      }
+   }
+   else if(stat == 3)
+   {
+      count = 0;
+      var a = 1;
+      while(2 &gt;= a)
+      {
+         if(_root.leveloutro[this.sname[this.a]] / 100 &gt;= 1)
+         {
+            step = 100;
+         }
+         else if(_root.leveloutro[this.sname[this.a]] / 10 &gt;= 1)
+         {
+            step = 10;
+         }
+         else if(0 &gt;= _root.leveloutro[this.sname[this.a]])
+         {
+            step = 0;
+            count += 1;
+         }
+         else
+         {
+            step = 1;
+         }
+         _root.leveloutro[this.sname[this.a]] -= step;
+         _root.leveloutro.score += step;
+         a++;
+      }
+      _root.fx.fx("count");
+      if(count &gt;= 2 || Key.isDown(_root.Sonic1.jump))
+      {
+         _root.leveloutro.score += _root.leveloutro[this.sname[1]] + _root.leveloutro[this.sname[2]];
+         _root.leveloutro[this.sname[1]] = 0;
+         _root.leveloutro[this.sname[2]] = 0;
+         count = 0;
+         stat = 4;
+      }
+   }
+   else if(stat == 4)
+   {
+      _root.fx.fx("cling");
+      stat = 5;
+   }
+   else if(stat == 5)
+   {
+      if(count &gt;= 50)
+      {
+         stat = 6;
+         count = 1;
+      }
+      else
+      {
+         count += 1;
+      }
+   }
+   else if(stat == 6)
+   {
+      var a = 1;
+      while(count &gt;= a)
+      {
+         if(-150 &lt; _root.leveloutro["s" add a]._x)
+         {
+            _root.leveloutro["s" add a]._x -= 40;
+         }
+         else if(a == 3)
+         {
+            stat = 7;
+         }
+         if(a == count)
+         {
+            if(_root.leveloutro["s" add a]._x &lt; 140)
+            {
+               if(count &lt; 3)
+               {
+                  count += 1;
+               }
+               else
+               {
+                  "../:play"();
+               }
+            }
+         }
+         a++;
+      }
+   }
+   else if(stat == 7)
+   {
+   }
+   _root.score = _root.leveloutro.score;
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="68" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#09bdc1">
+                         <frames>
+                              <DOMFrame index="0" duration="25" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="25" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 50" name="s1" centerPoint3DX="277.15" centerPoint3DY="123.65">
+                                             <matrix>
+                                                  <Matrix tx="171.45" ty="113.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   t = s add " : " add _root.leveloutro[this.s];
+   t2 = t;
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="45" duration="32" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#f161d9" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="13" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame tweenType="motion" motionTweenScale="true" acceleration="0" duration="4" index="13" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 47" centerPoint3DX="350.5" centerPoint3DY="275.5">
+                                             <matrix>
+                                                  <Matrix tx="175.0" ty="270.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame tweenType="motion" motionTweenScale="true" acceleration="0" duration="7" index="17" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 47" centerPoint3DX="350.5" centerPoint3DY="188.7">
+                                             <matrix>
+                                                  <Matrix tx="175.0" ty="183.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" duration="33" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 47" centerPoint3DX="350.5" centerPoint3DY="85.5">
+                                             <matrix>
+                                                  <Matrix tx="175.0" ty="80.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame tweenType="motion" motionTweenScale="true" acceleration="0" duration="5" index="57" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 47" centerPoint3DX="291.85" centerPoint3DY="85.5">
+                                             <matrix>
+                                                  <Matrix tx="116.35" ty="80.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="62" duration="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 47" centerPoint3DX="-1.5" centerPoint3DY="85.5">
+                                             <matrix>
+                                                  <Matrix tx="-177.0" ty="80.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

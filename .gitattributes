@@ -1,0 +1,4 @@
+# Preserve the exact bytes of extracted assets and Windows text exports.
+* -text
+* whitespace=cr-at-eol
+source/** -whitespace

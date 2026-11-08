@@ -1,0 +1,1 @@
+chara = eval("../:chara");

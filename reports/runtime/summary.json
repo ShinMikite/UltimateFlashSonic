@@ -1,0 +1,37 @@
+{
+  "runtime": "Ruffle 0.7.1 in Google Chrome",
+  "results": {
+    "original": {
+      "browser_errors": 0,
+      "screenshots_checked": 11,
+      "pause_timer_stable": true,
+      "input_responses_visible": true
+    },
+    "sonic": {
+      "browser_errors": 0,
+      "screenshots_checked": 11,
+      "pause_timer_stable": true,
+      "input_responses_visible": true
+    },
+    "tails": {
+      "browser_errors": 0,
+      "screenshots_checked": 11,
+      "pause_timer_stable": true,
+      "input_responses_visible": true
+    },
+    "knuckles": {
+      "browser_errors": 0,
+      "screenshots_checked": 11,
+      "pause_timer_stable": true,
+      "input_responses_visible": true
+    },
+    "cream": {
+      "browser_errors": 0,
+      "screenshots_checked": 11,
+      "pause_timer_stable": true,
+      "input_responses_visible": true
+    }
+  },
+  "scope": "Opening menus, four starting characters, first-level movement, jumping, spindash, pause and resume. Original Sonic run used as reference.",
+  "limitations": "Not a complete playthrough; later levels, bosses, unlockables, audio fidelity and Flash CS6 publishing are not verified."
+}

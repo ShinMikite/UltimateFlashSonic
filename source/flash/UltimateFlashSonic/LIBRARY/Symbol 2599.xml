@@ -1,0 +1,224 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2599" itemID="6af0bf00-0000069b" lastModified="1794162329">
+     <timeline>
+          <DOMTimeline name="Symbol 2599">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#d4f884">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2598" centerPoint3DX="37.45" centerPoint3DY="244.05">
+                                             <matrix>
+                                                  <Matrix tx="16.0" ty="235.05" a="1.00115966796875" d="1.0028839111328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   this.gotoAndStop([_root.chara]);
+   if(_root.mode != "main")
+   {
+      this._visible = 0;
+   }
+}
+onClipEvent(enterFrame){
+   t = _root.lives;
+   this.t1 = t;
+   this.t2 = t;
+   this.t3 = t;
+   this.t4 = t;
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#95eed7">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText fontRenderingMode="standard" width="25.8" height="10.7" variableName="rings">
+                                             <matrix>
+                                                  <Matrix tx="36.6" ty="10.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>072</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="1.65" rightMargin="0.0" autoKern="false" size="9.95" bitmapSize="199" face="Vipnagorgialla" fillColor="#ffffff" alpha="1.0"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#654fcd">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2579" centerPoint3DX="18.85" centerPoint3DY="19.0">
+                                             <matrix>
+                                                  <Matrix tx="8.85" ty="9.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#f7d129">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#000000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1384 404| 729 404[ 639 410 575 473[ 540 507 522 547| 517 561[ 508 584 505 610| 382 610[ 297 608 237 549[ 174 487 174 400[ 174 313 237 251[ 297 192 382 190| 1314 190[ 1340 192 1360 212[ 1382 233 1384 262| 1384 404"/>
+                                                  <Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 1417 436| 755 436[ 664 442 599 512[ 572 540 555 573| 546 593| 534 633| 532 642| 364 641[ 274 638 210 571[ 143 500 144 400[ 143 299 210 229[ 274 161 364 158| 1342 158[ 1370 161 1391 183[ 1414 207 1416 241| 1417 436"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#80fa10">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2577" centerPoint3DX="135.2" centerPoint3DY="37.35">
+                                             <matrix>
+                                                  <Matrix tx="84.1" ty="29.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   max = 6;
+   t = "";
+   var a = 1;
+   while(max &gt;= a)
+   {
+      if(_root.score &lt; Math.pow(10,a))
+      {
+         t = t add "0";
+      }
+      a++;
+   }
+   t = t add _root.score;
+   this.t1 = t;
+   this.t2 = t;
+   this.t3 = t;
+   this.t4 = t;
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#f959e7">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2571" name="time" centerPoint3DX="225.0" centerPoint3DY="24.65">
+                                             <matrix>
+                                                  <Matrix tx="180.05" ty="16.3" a="1.00054931640625" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   _root.time = new Array();
+   hun = 0;
+   min = 0;
+   sec = 0;
+}
+onClipEvent(enterFrame){
+   if(_root.Sonic1.fin == "off" &amp;&amp; _root.pause == 0 &amp;&amp; _root.boss != "on" || _root.boss == "on" &amp;&amp; _root.bossstat == "alive" &amp;&amp; _root.pause == 0)
+   {
+      hun = Math.round(Number(hun) + 2.857142857142857);
+      if(Number(hun) &gt;= 100)
+      {
+         sec = Number(sec) + 1;
+         if(sec &gt;= 60)
+         {
+            min += 1;
+            sec = Number(sec) - 60;
+         }
+         else if(sec &lt; 10)
+         {
+            sec = "0" add sec;
+         }
+         hun = Number(hun) - 100;
+      }
+      else if(Number(hun) &lt; 10)
+      {
+         hun = "0" add hun;
+      }
+      _root.time.min = min;
+      _root.time.sec = sec;
+      _root.time.hun = hun;
+      min2 = min;
+      sec2 = sec;
+      hun2 = hun;
+      min3 = min;
+      sec3 = sec;
+      hun3 = hun;
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#f810f6" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills/>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="3.0">
+                                                            <fill>
+                                                                 <SolidColor color="#ffffff"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 1417 436| 755 436[ 664 442 599 512[ 572 540 555 573| 546 593| 534 633| 532 642| 364 641[ 274 638 210 571[ 143 500 144 400[ 143 299 210 229[ 274 161 364 158| 1342 158[ 1370 161 1391 183[ 1414 207 1416 241| 1417 436"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>
