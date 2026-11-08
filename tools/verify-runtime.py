@@ -31,6 +31,6 @@ for name in ['original', 'sonic', 'tails', 'knuckles', 'cream']:
                      'pause_timer_stable': True, 'input_responses_visible': True}
 summary = {'runtime': 'Ruffle 0.7.1 in Google Chrome', 'results': results,
            'scope': 'Opening menus, four starting characters, first-level movement, jumping, spindash, pause and resume. Original Sonic run used as reference.',
-           'limitations': 'Not a complete playthrough; later levels, bosses, unlockables, audio fidelity and Flash CS6 publishing are not verified.'}
+           'limitations': 'These input replays cover the first level. See reports/coverage/comparison.json for the remaining stages and unlockables. Audio fidelity and Flash CS6 publishing are not verified.'}
 (output / 'summary.json').write_text(json.dumps(summary, indent=2) + '\n')
 print(json.dumps(summary, indent=2))

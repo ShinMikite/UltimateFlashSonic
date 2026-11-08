@@ -1,0 +1,53 @@
+{
+  "movie": "original.swf",
+  "sha256": "a5618f14e93f4b69fb8024505e09e583e0041246e5af671fece449d5223cadd7",
+  "runtime": "0.7.1",
+  "browser": "156.0.8078.80",
+  "parameters": {
+    "testKind": "level",
+    "testZone": "2",
+    "testAct": "2",
+    "testCharacter": "sonic"
+  },
+  "steps": [
+    {
+      "untilDone": true,
+      "shot": "result"
+    }
+  ],
+  "errors": [],
+  "startupRetries": [],
+  "messages": [
+    "%cINFO%c web/src/lib.rs:1416%c Ruffle WASM module has been initialized color: whitesmoke; background: #444 color: gray; font-style: italic color: inherit",
+    "%cNew Ruffle instance created (Version: 0.7.1 | WebAssembly extensions: ON | Used renderer: wgpu-webgl) background: #37528C; color: #FFAD33",
+    "Loading SWF data",
+    "TRACE BOOT|init|level|2",
+    "TRACE BOOT|menu|1|291",
+    "TRACE BOOT|menu|30|291",
+    "TRACE BOOT|game|327|2|sonic",
+    "TRACE READY|sonic|2|2|5400",
+    "TRACE STATE|tiles|1|||undefined|327",
+    "TRACE TILES|302|8487",
+    "TRACE FINISH_SIGN|on",
+    "TRACE OUTRO",
+    "TRACE STATE|outro|2|||movieclip|327",
+    "TRACE TRANSITION|2|1|on|22|3",
+    "TRACE RECORD|9:59:99|sonic",
+    "TRACE DONE"
+  ],
+  "traces": [
+    "BOOT|init|level|2",
+    "BOOT|menu|1|291",
+    "BOOT|menu|30|291",
+    "BOOT|game|327|2|sonic",
+    "READY|sonic|2|2|5400",
+    "STATE|tiles|1|||undefined|327",
+    "TILES|302|8487",
+    "FINISH_SIGN|on",
+    "OUTRO",
+    "STATE|outro|2|||movieclip|327",
+    "TRANSITION|2|1|on|22|3",
+    "RECORD|9:59:99|sonic",
+    "DONE"
+  ]
+}

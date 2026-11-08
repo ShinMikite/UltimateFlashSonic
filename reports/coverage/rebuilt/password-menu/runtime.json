@@ -1,0 +1,59 @@
+{
+  "movie": "rebuilt.swf",
+  "sha256": "ccec26f5c50762d3098d9702a67efcc77b21a14a73176c2bbb3d303bbee3f305",
+  "runtime": "0.7.1",
+  "browser": "156.0.8078.80",
+  "parameters": {
+    "testKind": "menu",
+    "testZone": "1",
+    "testAct": "1",
+    "testCharacter": "sonic"
+  },
+  "steps": [
+    {
+      "untilDone": true,
+      "shot": "result"
+    }
+  ],
+  "errors": [],
+  "startupRetries": [],
+  "messages": [
+    "%cINFO%c web/src/lib.rs:1416%c Ruffle WASM module has been initialized color: whitesmoke; background: #444 color: gray; font-style: italic color: inherit",
+    "%cNew Ruffle instance created (Version: 0.7.1 | WebAssembly extensions: ON | Used renderer: wgpu-webgl) background: #37528C; color: #FFAD33",
+    "Loading SWF data",
+    "TRACE BOOT|init|menu|1",
+    "TRACE PASSWORD|accepted|595313131313131|1|1|1",
+    "TRACE INVALID|invalid passwd|595313131313131",
+    "TRACE EASTER_EGG|movieclip",
+    "TRACE CHARACTERS|AMY|SHADOW",
+    "TRACE TOGGLE|1|2",
+    "TRACE TOGGLE_OFF|1|1",
+    "TRACE TOGGLE|2|2",
+    "TRACE TOGGLE_OFF|2|1",
+    "TRACE TOGGLE|3|2",
+    "TRACE TOGGLE_OFF|3|1",
+    "TRACE TOGGLE|4|2",
+    "TRACE TOGGLE_OFF|4|1",
+    "TRACE TOGGLE|5|2",
+    "TRACE TOGGLE_OFF|5|1",
+    "TRACE DONE"
+  ],
+  "traces": [
+    "BOOT|init|menu|1",
+    "PASSWORD|accepted|595313131313131|1|1|1",
+    "INVALID|invalid passwd|595313131313131",
+    "EASTER_EGG|movieclip",
+    "CHARACTERS|AMY|SHADOW",
+    "TOGGLE|1|2",
+    "TOGGLE_OFF|1|1",
+    "TOGGLE|2|2",
+    "TOGGLE_OFF|2|1",
+    "TOGGLE|3|2",
+    "TOGGLE_OFF|3|1",
+    "TOGGLE|4|2",
+    "TOGGLE_OFF|4|1",
+    "TOGGLE|5|2",
+    "TOGGLE_OFF|5|1",
+    "DONE"
+  ]
+}

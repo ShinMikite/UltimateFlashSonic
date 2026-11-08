@@ -1,0 +1,33 @@
+{
+  "release_sha256": "4c316485f42ab536f98a7a7aa75f700f705da40c4d7b4443b4b75d3105a2ffdc",
+  "cases_per_version": 23,
+  "runtime_runs": 46,
+  "unexpected_failures": 0,
+  "startup_retries": 0,
+  "comparisons": {
+    "act-1-1": "Matches original",
+    "act-1-2": "Matches original",
+    "boss-1": "Original softlock reproduced; rebuilt game completes normally",
+    "act-2-1": "Matches original",
+    "act-2-2": "Matches original",
+    "boss-2": "Matches original",
+    "ending-tails": "Matches original",
+    "ending-knuckles": "Matches original",
+    "ending-cream": "Matches original",
+    "ending-amy": "Matches original",
+    "ending-shadow": "Matches original",
+    "unlock-progression": "Matches original",
+    "password-menu": "Matches original",
+    "cheat-1": "Matches original",
+    "cheat-2": "Matches original",
+    "cheat-3": "Matches original",
+    "cheat-4": "Matches original",
+    "cheat-5": "Matches original",
+    "cheat-6": "Matches original",
+    "time-trial": "Matches original",
+    "unlock-amy-ending": "Matches original",
+    "death-restart": "Matches original",
+    "game-over": "Matches original"
+  },
+  "method": "State-driven integration fixtures with original collision, damage, transition, ending and menu handlers. Not an unaided keyboard playthrough."
+}

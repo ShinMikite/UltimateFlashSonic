@@ -1,0 +1,358 @@
+[
+  {
+    "name": "act-1-1",
+    "parameters": {
+      "testKind": "level",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "act-1-2",
+    "parameters": {
+      "testKind": "level",
+      "testZone": "1",
+      "testAct": "2",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "boss-1",
+    "parameters": {
+      "testKind": "boss",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "act-2-1",
+    "parameters": {
+      "testKind": "level",
+      "testZone": "2",
+      "testAct": "1",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "act-2-2",
+    "parameters": {
+      "testKind": "level",
+      "testZone": "2",
+      "testAct": "2",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "boss-2",
+    "parameters": {
+      "testKind": "boss",
+      "testZone": "2",
+      "testAct": "1",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "ending-tails",
+    "parameters": {
+      "testKind": "boss",
+      "testZone": "2",
+      "testAct": "1",
+      "testCharacter": "tails"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "ending-knuckles",
+    "parameters": {
+      "testKind": "boss",
+      "testZone": "2",
+      "testAct": "1",
+      "testCharacter": "knuckles"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "ending-cream",
+    "parameters": {
+      "testKind": "boss",
+      "testZone": "2",
+      "testAct": "1",
+      "testCharacter": "cream"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "ending-amy",
+    "parameters": {
+      "testKind": "boss",
+      "testZone": "2",
+      "testAct": "1",
+      "testCharacter": "amy",
+      "testPriorCharacters": "sonic,tails,knuckles,cream"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "ending-shadow",
+    "parameters": {
+      "testKind": "boss",
+      "testZone": "2",
+      "testAct": "1",
+      "testCharacter": "shadow",
+      "testPriorCharacters": "sonic,tails,knuckles,cream,amy"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "unlock-progression",
+    "parameters": {
+      "testKind": "unlocks",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "password-menu",
+    "parameters": {
+      "testKind": "menu",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "cheat-1",
+    "parameters": {
+      "testKind": "cheat",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic",
+      "testCheat": "1"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "cheat-2",
+    "parameters": {
+      "testKind": "cheat",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic",
+      "testCheat": "2"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "cheat-3",
+    "parameters": {
+      "testKind": "cheat",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic",
+      "testCheat": "3"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "cheat-4",
+    "parameters": {
+      "testKind": "cheat",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "cream",
+      "testCheat": "4"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "cheat-5",
+    "parameters": {
+      "testKind": "cheat",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic",
+      "testCheat": "5"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "cheat-6",
+    "parameters": {
+      "testKind": "cheat",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic",
+      "testCheat": "6"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "time-trial",
+    "parameters": {
+      "testKind": "level",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic",
+      "testMode": "timetrial"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "unlock-amy-ending",
+    "parameters": {
+      "testKind": "boss",
+      "testZone": "2",
+      "testAct": "1",
+      "testCharacter": "cream",
+      "testPriorCharacters": "sonic,tails,knuckles"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "death-restart",
+    "parameters": {
+      "testKind": "death",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  },
+  {
+    "name": "game-over",
+    "parameters": {
+      "testKind": "death",
+      "testZone": "1",
+      "testAct": "1",
+      "testCharacter": "sonic",
+      "testLives": "0"
+    },
+    "steps": [
+      {
+        "untilDone": true,
+        "shot": "result"
+      }
+    ]
+  }
+]

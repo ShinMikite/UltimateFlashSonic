@@ -23,6 +23,10 @@ onClipEvent(enterFrame){
       }
       else
       {
+         if(eval("../:egg")._currentframe == 20)
+         {
+            eval("../:egg").play();
+         }
          this._rotation *= 0.95;
          if(this._currentframe < this._totalframes)
          {

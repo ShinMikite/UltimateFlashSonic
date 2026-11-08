@@ -114,9 +114,52 @@ pause timer and visible input responses.
 The recorded runs passed for Sonic, Tails, Knuckles and Cream, with no browser
 errors. The original Sonic run provides a visual reference. Checks cover initial
 menus and first-level movement, jumping, spindash, pause and resume. They do not
-constitute a full playthrough, and audio fidelity has not been checked. Ruffle is an emulator; passing these
-tests does not establish compatibility with every historic Flash Player version
-or complete coverage of every level and unlockable.
+constitute a full playthrough, and audio fidelity has not been checked.
+
+## Extended coverage
+
+```powershell
+python tools/testing/instrument.py --ffdec 'C:/Tools/ffdec/ffdec.jar'
+python tools/testing/run-suite.py C:/Tools/flash-runtime
+python tools/testing/verify-coverage.py
+```
+
+The suite runs 23 cases against each of the original and compiled game (46 runs). Temporary
+instrumented SWFs stay under `build/coverage`; the release contains no fixtures.
+The fixture preloader waits for every SWF frame before starting. Telemetry/setup
+code is appended to existing action
+records. Direct-stage fixtures suppress the menu character's automatic transition
+while entering a stage; the password/menu fixture retains it. The original
+gameplay action bytes remain intact in the reference movie.
+
+Coverage includes:
+
+- Chill Gardens, Emerald Forest, Snowy Mountain and Frosty Island: every mapped
+  primary tile, finish-sign collision, score/outro sequence and stage transition.
+- Spinning Egg and Egg Bomber: all ten damage steps, pinch phase, defeat animation,
+  outro and saved progress.
+- All six character endings, Amy's unlock after the initial four characters,
+  Shadow and Jukebox unlocks after Amy, and Shadow's final completion message.
+- Password generation/import, invalid checksum rejection, the `dennis_gid`
+  Easter egg, cheat menu toggles and the five cheats' runtime effects.
+- Time-trial completion, death/restart and game over.
+
+The fixtures deliberately position the camera, player and collision probes to
+exercise the relevant game handlers. They pause world physics during the score
+outro so fixture positioning cannot cause an unrelated fall/restart. They do not
+write boss health or force the
+defeat animation. These are repeatable integration tests, not continuous unaided
+keyboard playthroughs through every route. Screenshots, traces and assertions are
+stored in `reports/coverage/`. Audio fidelity, every route through the maps,
+historic Flash Player versions and publishing with Flash CS6 remain unverified.
+
+### Spinning Egg defeat fix
+
+Rapid repeated hits can leave Spinning Egg's egg animation stopped at frame 20
+after its health reaches zero in Ruffle. The original game reproduces the stall.
+The boss controller now resumes that explosion frame, allowing the normal outro
+and Ice Paradise transition to run. The correction is mirrored in the XFL library
+symbol; the archived original SWF and SWF XML remain unchanged.
 
 Original game credits and embedded assets are preserved. This repository does not
 grant new rights to third-party code, characters, music or artwork.

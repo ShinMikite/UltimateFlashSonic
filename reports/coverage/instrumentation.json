@@ -1,0 +1,27 @@
+{
+  "driver_sha256": "ce8095cecff202df79fa2af90ff29710b00717005dca9b9a335c1d4498940fec",
+  "actions_replaced": [
+    "preloader frame 1 plays",
+    "preloader frame 2 waits for all frames, then runs original initialization plus fixture startup"
+  ],
+  "actions_extended": [
+    "player frame tick",
+    "level frame tick",
+    "menu frame tick",
+    "completion",
+    "ending"
+  ],
+  "guards": [
+    "menu character transition disabled for direct stage fixtures"
+  ],
+  "movies": {
+    "original": {
+      "input_sha256": "a54d2c0748852907f3f9a2d8c4da12261762befc14f5eef65100622b4b7b00d9",
+      "instrumented_sha256": "a5618f14e93f4b69fb8024505e09e583e0041246e5af671fece449d5223cadd7"
+    },
+    "rebuilt": {
+      "input_sha256": "4c316485f42ab536f98a7a7aa75f700f705da40c4d7b4443b4b75d3105a2ffdc",
+      "instrumented_sha256": "ccec26f5c50762d3098d9702a67efcc77b21a14a73176c2bbb3d303bbee3f305"
+    }
+  }
+}

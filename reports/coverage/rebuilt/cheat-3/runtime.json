@@ -1,0 +1,42 @@
+{
+  "movie": "rebuilt.swf",
+  "sha256": "ccec26f5c50762d3098d9702a67efcc77b21a14a73176c2bbb3d303bbee3f305",
+  "runtime": "0.7.1",
+  "browser": "156.0.8078.80",
+  "parameters": {
+    "testKind": "cheat",
+    "testZone": "1",
+    "testAct": "1",
+    "testCharacter": "sonic",
+    "testCheat": "3"
+  },
+  "steps": [
+    {
+      "untilDone": true,
+      "shot": "result"
+    }
+  ],
+  "errors": [],
+  "startupRetries": [],
+  "messages": [
+    "%cINFO%c web/src/lib.rs:1416%c Ruffle WASM module has been initialized color: whitesmoke; background: #444 color: gray; font-style: italic color: inherit",
+    "%cNew Ruffle instance created (Version: 0.7.1 | WebAssembly extensions: ON | Used renderer: wgpu-webgl) background: #37528C; color: #FFAD33",
+    "Loading SWF data",
+    "TRACE BOOT|init|cheat|1",
+    "TRACE BOOT|menu|1|291",
+    "TRACE BOOT|menu|30|291",
+    "TRACE BOOT|game|327|1|sonic",
+    "TRACE READY|sonic|1|1|5400",
+    "TRACE EFFECT|3|39|undefined|-1||0.5|0.15|1",
+    "TRACE DONE"
+  ],
+  "traces": [
+    "BOOT|init|cheat|1",
+    "BOOT|menu|1|291",
+    "BOOT|menu|30|291",
+    "BOOT|game|327|1|sonic",
+    "READY|sonic|1|1|5400",
+    "EFFECT|3|39|undefined|-1||0.5|0.15|1",
+    "DONE"
+  ]
+}

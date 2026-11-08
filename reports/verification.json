@@ -23,6 +23,6 @@
     "symbolClass": 1,
     "texts": 88
   },
-  "runtime_playtest": "See reports/runtime/summary.json for compiled-game playtests",
+  "runtime_playtest": "See reports/runtime/summary.json and reports/coverage/comparison.json for compiled-game tests",
   "xfl_publish_test": "Not performed"
 }

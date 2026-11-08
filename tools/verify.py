@@ -71,7 +71,7 @@ def main():
         'storage_width_changes': dict(changes),
         'xfl_xml_files_parsed': len(xml_files),
         'export_file_counts': counts,
-        'runtime_playtest': 'See reports/runtime/summary.json for compiled-game playtests',
+        'runtime_playtest': 'See reports/runtime/summary.json and reports/coverage/comparison.json for compiled-game tests',
         'xfl_publish_test': 'Not performed'
     }
     args.report.parent.mkdir(parents=True, exist_ok=True)
